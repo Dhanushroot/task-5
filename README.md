@@ -97,7 +97,9 @@ Capture live network packets using **Wireshark** and analyze traffic patterns, k
 ---
 
 ## 📸 Included Screenshots
-- Wireshark interface and interface selection  
+- Wireshark interface and interface selection
+  ![Live packet capture in progress](Screenshots/Screenshot_2025-10-28_21_02_22.png)
+  
 - Live packet capture in progress
   ![Live packet capture in progress](Screenshots/Screenshot_2025-10-28_20_06_34.png)
 
