@@ -98,13 +98,20 @@ Capture live network packets using **Wireshark** and analyze traffic patterns, k
 
 ## 📸 Included Screenshots
 - Wireshark interface and interface selection  
-- Live packet capture in progress  
-- Applied protocol filters  
-- Packet detail views and protocol analysis  
-- Saving and exporting `.pcap` file  
-- Command-line execution of analysis script  
-- Generated `report.txt` output  
+- Live packet capture in progress
+  ![Live packet capture in progress](Screenshots/Screenshot_2025-10-28_20_06_34.png)
 
+- Applied protocol filters
+  ![Applied protocol filters](Screenshots/Screenshot_2025-10-28_20_10_38.png)
+  
+- Packet detail views and protocol analysis
+  ![Packet detail views and protocol analysis](Screenshots/Screenshot_2025-10-28_20_12_03.png)
+ 
+- Command-line execution of analysis script
+  ![Command-line execution of analysis script](Screenshots/Screenshot_2025-10-28_20_43_40.png)
+  
+- Generated `report.txt` output  
+  ![Command-line execution of analysis script](Screenshots/Screenshot_2025-10-28_20_43_51.png)
 ---
 
 ## 📚 Key Learnings
